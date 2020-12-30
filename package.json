@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jbakse/compformnet/issues"
   },
-  "homepage": "https://github.com/jbakse/compformnet#readme"
+  "homepage": "https://github.com/jbakse/compformnet#readme",
+  "dependencies": {
+    "@jbakse/bookbuilder": "0.0.4"
+  }
 }
