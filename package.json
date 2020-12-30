@@ -1,0 +1,19 @@
+{
+  "name": "compformnet",
+  "version": "0.0.1",
+  "description": "Content for compform.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbakse/compformnet.git"
+  },
+  "author": "Justin Bakse",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/jbakse/compformnet/issues"
+  },
+  "homepage": "https://github.com/jbakse/compformnet#readme"
+}
