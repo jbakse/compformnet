@@ -1,0 +1,22 @@
+# compiled output
+/dist
+/tmp
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+workspace.code-workspace
+
+# Logs
+/logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# System Files
+.DS_Store
+Thumbs.db
