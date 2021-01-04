@@ -1,5 +1,1 @@
----
-template: special.html
----
-
 # A
