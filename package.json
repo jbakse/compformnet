@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jbakse/compformnet#readme",
   "dependencies": {},
   "devDependencies": {
-    "@jbakse/bookbuilder": "0.0.5"
+    "@jbakse/bookbuilder": "0.0.6"
   }
 }

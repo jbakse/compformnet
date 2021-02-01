@@ -14,6 +14,8 @@ description: Using a computer to explore aesthetics is a powerful creative proce
 software: p5.js + p5.dom
 ---
 
+
+
 ## What Computational Form Is
 
 > Q: Can the computer substitute for the Designer?
@@ -34,20 +36,16 @@ There are many reasons artists and designers employ algorithmic methods. Some im
 - enhancing variety
 - creating dynamic, responsive content
 
-<!-- ::: slides .contain
-// needs @@ before inclue
-include('./compform_slides.yaml')
-/:: -->
+
 
 ### What Computational Form is Not
 
 While we use computer programming throughout this class, it is important to understand that procedural generation doesn't require a computer. Procedural generation is about defining instructions that create form. Computers are very useful tools for carrying out these instructions, but artists have also built systems that rely on humans or purpose-built machines instead. Many of the works included in the slideshow below embody principles of computation and instruction without using computers.
 
-::: slides .contain
-@@include('../procedures/compform_slides.yaml')
-/::
 
-::: .activity
+
+<!-- ::: .activity -->
+<div class="activity">
 
 ## The Sierpinski Triangle
 
@@ -69,7 +67,8 @@ Yes, these instructions will go on forever. I'll interrupt you in a minute.
 
 [stand-alone instructions](./sierpinski.html){boxed right}
 
-/::
+</div>
+<!-- /:: -->
 
 ## About this Class
 
@@ -101,7 +100,9 @@ We will also explore some interesting programming topics including:
 I am Justin Bakse. I am an assistant professor of interaction design at Parsons. I am personally very interested in computational form and have used computational methods in a great deal of my work. You can see some of my work below or [on my website](http://justinbakse.com/).
 
 ::: slides .scale
-@@include('./justin_slides.yaml')
+
+@@include(introduction/justin_slides.yaml)
+
 /::
 
 ### Class Format + Homework

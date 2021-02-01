@@ -8,6 +8,18 @@ This is a test file.
 
 It has _italic_, **bold**, and `code` spans.
 
+<div>
+Hello, Div
+</div>
+
+
 ```
 It has fenced code blocks!
 ```
+
+
+<style>
+    div {
+        border: 1px solid red;
+    }
+</style>
