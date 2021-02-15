@@ -1,5 +1,11 @@
 # Markdown Test File
 
+First Include
+@@include(include.md)
+
+Second Include
+@@include(include.md)
+
 This is a test file.
 
 - It
@@ -12,14 +18,20 @@ It has _italic_, **bold**, and `code` spans.
 Hello, Div
 </div>
 
-
 ```
 It has fenced code blocks!
 ```
 
+::: .callout
+This is only a test.
+/::
 
-<style>
-    div {
-        border: 1px solid red;
+<div class="callout">
+    This is a callout.
+</div>
+
+<style> 
+    .callout {
+        background: pink;
     }
 </style>

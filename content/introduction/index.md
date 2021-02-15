@@ -14,8 +14,6 @@ description: Using a computer to explore aesthetics is a powerful creative proce
 software: p5.js + p5.dom
 ---
 
-
-
 ## What Computational Form Is
 
 > Q: Can the computer substitute for the Designer?
@@ -36,13 +34,9 @@ There are many reasons artists and designers employ algorithmic methods. Some im
 - enhancing variety
 - creating dynamic, responsive content
 
-
-
 ### What Computational Form is Not
 
 While we use computer programming throughout this class, it is important to understand that procedural generation doesn't require a computer. Procedural generation is about defining instructions that create form. Computers are very useful tools for carrying out these instructions, but artists have also built systems that rely on humans or purpose-built machines instead. Many of the works included in the slideshow below embody principles of computation and instruction without using computers.
-
-
 
 <!-- ::: .activity -->
 <div class="activity">
@@ -101,7 +95,7 @@ I am Justin Bakse. I am an assistant professor of interaction design at Parsons.
 
 ::: slides .scale
 
-@@include(introduction/justin_slides.yaml)
+@@include(justin_slides.yaml)
 
 /::
 

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\" && exit 0",
-    "buildbook": "buildbook"
+    "start": "buildbook"
   },
   "repository": {
     "type": "git",
